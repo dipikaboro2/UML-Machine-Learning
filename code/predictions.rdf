@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:objProp="https://www.cs.uml.edu/~zbhuyan/objects">
+	<rdf:Description rdf:about="https://www.cs.uml.edu/~zbhuyan/image/">
+		<img:imgWidth>4928</objProp:id>
+		<img:imgHeight>3264</objProp:id>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://www.cs.uml.edu/~zbhuyan/objects/person">
+		<objProp:id>0</objProp:id>
+		<objProp:centroidX>2919.75634765625</objProp:idcentroidX>
+		<objProp:centroidY>1724.7393798828125</objProp:idcentroidY>
+		<objProp:x1>2606.12744140625</objProp:x1>
+		<objProp:y1>1181.03662109375</objProp:y1>
+		<objProp:x2>3233.385009765625</objProp:x2>
+		<objProp:y2>2268.442138671875</objProp:y2>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://www.cs.uml.edu/~zbhuyan/objects/person">
+		<objProp:id>1</objProp:id>
+		<objProp:centroidX>1306.197509765625</objProp:idcentroidX>
+		<objProp:centroidY>1701.65478515625</objProp:idcentroidY>
+		<objProp:x1>1125.68212890625</objProp:x1>
+		<objProp:y1>1180.4398193359375</objProp:y1>
+		<objProp:x2>1486.7130126953125</objProp:x2>
+		<objProp:y2>2222.869873046875</objProp:y2>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://www.cs.uml.edu/~zbhuyan/objects/person">
+		<objProp:id>2</objProp:id>
+		<objProp:centroidX>1579.343505859375</objProp:idcentroidX>
+		<objProp:centroidY>1656.677978515625</objProp:idcentroidY>
+		<objProp:x1>1447.0833740234375</objProp:x1>
+		<objProp:y1>1202.311767578125</objProp:y1>
+		<objProp:x2>1711.603515625</objProp:x2>
+		<objProp:y2>2111.044189453125</objProp:y2>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://www.cs.uml.edu/~zbhuyan/objects/person">
+		<objProp:id>3</objProp:id>
+		<objProp:centroidX>2324.3154296875</objProp:idcentroidX>
+		<objProp:centroidY>1828.72265625</objProp:idcentroidY>
+		<objProp:x1>2109.996826171875</objProp:x1>
+		<objProp:y1>1393.860107421875</objProp:y1>
+		<objProp:x2>2538.634033203125</objProp:x2>
+		<objProp:y2>2263.585205078125</objProp:y2>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://www.cs.uml.edu/~zbhuyan/objects/motorbike">
+		<objProp:id>4</objProp:id>
+		<objProp:centroidX>4425.6435546875</objProp:idcentroidX>
+		<objProp:centroidY>527.9812622070312</objProp:idcentroidY>
+		<objProp:x1>4058.66796875</objProp:x1>
+		<objProp:y1>290.4905090332031</objProp:y1>
+		<objProp:x2>4792.61865234375</objProp:x2>
+		<objProp:y2>765.4719848632812</objProp:y2>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://www.cs.uml.edu/~zbhuyan/objects/motorbike">
+		<objProp:id>5</objProp:id>
+		<objProp:centroidX>3496.713623046875</objProp:idcentroidX>
+		<objProp:centroidY>448.7099914550781</objProp:idcentroidY>
+		<objProp:x1>3139.63671875</objProp:x1>
+		<objProp:y1>141.69078063964844</objProp:y1>
+		<objProp:x2>3853.79052734375</objProp:x2>
+		<objProp:y2>755.7291870117188</objProp:y2>
+	</rdf:Description>
+</rdf:RDF>
